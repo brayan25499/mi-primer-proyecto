@@ -47,3 +47,25 @@
 1. Crear las tablas de usuarios y membresías
 2. Conectar la base de datos con el backend
 3. Finalizar formulario de registro e inicio de sesión
+
+## Mi aporte al proyecto
+
+**Nombre:** Brayan Valencia
+
+**Rol:** Desarrollador
+
+### Lo que desarrollo yo
+- Landing page
+- Sistema de login
+- Diseño del proyecto
+
+### Lo que aprendi esta semana
+- Crear ramas
+- Hacer commits
+- Realizar merge
+- Subir cambios a GitHub
+
+### Proximos pasos
+- Mejorar el dashboard
+- Agregar base de datos
+- Implementar autenticacion
